@@ -1,3 +1,3 @@
 # ci_test
 
-Test webhook trigger
+Test webhook trigger.
